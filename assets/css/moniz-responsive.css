@@ -599,6 +599,18 @@
         padding: 120px 0 110px;
     }
 
+    .btn-resp{
+        margin: 0 0 9px 0 !important;
+    }
+    .footer-widget__about,
+    .main-slider__content{
+        text-align: center;
+    }
+
+    .testimonial-one__btn-box{
+        display: none;
+    }
+
     .counters-one__box {
         text-align: center;
     }
@@ -1296,7 +1308,7 @@
 
     .main-slider .container {
         padding-top: 217px;
-        padding-bottom: 150px;
+        padding-bottom: 185px;
     }
 
     .main-slider-shape-1,
