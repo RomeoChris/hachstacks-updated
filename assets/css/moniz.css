@@ -328,7 +328,7 @@ ul {
   margin: 0;
   font-weight: 700;
   color: var(--moniz-black, #1e1e22);
-  font-size: 50px;
+  font-size: 30px;
   line-height: 60px;
 }
 
@@ -883,11 +883,11 @@ body.boxed-wrapper {
 
 .main-menu__list .new-tag {
   background-color: var(--moniz-black);
-  text-transform: uppercase;
+  text-transform: lowercase;
   border-radius: var(--moniz-border-radius, 10px);
-  font-size: 12px;
+  font-size: 8px;
   color: var(--moniz-base, #ffffff);
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1;
   display: -webkit-box;
   display: -ms-flexbox;
