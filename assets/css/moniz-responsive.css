@@ -607,6 +607,15 @@
         text-align: center;
     }
 
+    .loading-widget__newsletter{
+        max-width: 90% !important;
+        padding: 50px 30px 20px;
+    }
+
+    .loading-widget__newsletter-input-box input[type="email"]{
+        padding-right: 30px !important;
+    }
+
     .testimonial-one__btn-box{
         display: none;
     }
@@ -990,7 +999,7 @@
     }
 
     .error-page__title {
-        font-size: 150px;
+        font-size: 120px;
         line-height: 160px;
         margin-bottom: 14px;
     }
