@@ -3023,7 +3023,7 @@ body.boxed-wrapper {
           box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
   width: 150px;
   height: 150px;
-  font-size: 64px;
+  font-size: 50px;
   color: var(--moniz-black, #1e1e22);
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
@@ -3158,6 +3158,7 @@ body.boxed-wrapper {
 
 .portfolio-one__img img {
   width: 100%;
+  height: 100%;
   border-radius: var(--moniz-border-radius, 10px);
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
@@ -3292,7 +3293,7 @@ body.boxed-wrapper {
   position: relative;
   display: block;
   background-color: #ffffff;
-  padding: 118px 0 119px;
+  padding: 100px 0 50px;
   border-top: 1px solid var(--moniz-extra, #e4e4ea);
 }
 
@@ -3311,7 +3312,7 @@ body.boxed-wrapper {
 .brand-one .swiper-slide img {
   -webkit-transition: 500ms;
   transition: 500ms;
-  opacity: 0.3;
+  /* opacity: 0.3; */
   max-width: 100%;
 }
 
